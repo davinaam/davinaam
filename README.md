@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davinaam
+- 👋 Hi, I’m @davinaam(Davina May).
 - 👀 I’m interested in dance,fashion,hair and makeup.
 - 🌱 I’m currently learning CSS:Implementing Stylistic Features doing a Full Stack Developer course.
 - 💞️ I’m looking to collaborate on a new web design/app to help progress my business as a Birth Doula.
